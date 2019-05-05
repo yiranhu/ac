@@ -1,0 +1,18 @@
+body{
+  background-color: black;
+}
+h1{
+  color: red;
+  text-align: center;
+  background-color:white !important;
+}
+.intro{
+  text-align: center;
+}
+.programs li{
+  list-style:quare;
+  opacity: 0.7;
+  color:purple;
+  font-family:cursive;
+  font-size:20px;
+}
